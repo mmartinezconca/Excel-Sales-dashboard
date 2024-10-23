@@ -1,1 +1,1 @@
-# Excel-Sales-dashboard
+## This is an MS Excel dashboard of sales from a fictional coffee shop chain in New York City.  The dashboard displays: the total sales of the top 5 best selling items from January-June 2023 as line chart, and the total sales by product category.  The dashboard allows users to slice the data based on both the time of day (Morning/Afternoon/Evening) and one of the three store locations (Astoria/Hell's Kitchen/Lower Manhattan). The dataset is from Maven Analytics published with a Public Domain License.
